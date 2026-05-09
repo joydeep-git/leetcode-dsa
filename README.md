@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/joydeep-git/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joydeep-git/leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0213-house-robber-ii](https://github.com/joydeep-git/leetcode-dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/joydeep-git/leetcode-dsa/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
@@ -18,4 +19,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joydeep-git/leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0213-house-robber-ii](https://github.com/joydeep-git/leetcode-dsa/tree/main/0213-house-robber-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/joydeep-git/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/joydeep-git/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/joydeep-git/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
