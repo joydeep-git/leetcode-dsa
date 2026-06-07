@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/joydeep-git/leetcode-dsa/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/joydeep-git/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
