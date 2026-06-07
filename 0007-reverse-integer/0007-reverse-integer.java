@@ -1,22 +1,20 @@
 class Solution {
     public int reverse(int x) {
 
-        if (x == Integer.MIN_VALUE) {
+        long reversed = 0;
+
+        while (x != 0) {
+
+            int pop = x % 10;
+            x /= 10;
+
+            reversed = (reversed * 10) + pop;
+        }
+
+        if (reversed < Integer.MIN_VALUE || reversed > Integer.MAX_VALUE) {
             return 0;
         }
 
-        boolean isn = x < 0;
-
-        StringBuilder str = new StringBuilder( String.valueOf(Math.abs(x)) );
-
-        long num = Long.parseLong( str.reverse().toString() );
-
-        long result = isn ? -num : num;
-
-        if (result < Integer.MIN_VALUE || result > Integer.MAX_VALUE) {
-            return 0;
-        }
-
-        return (int) result;
+        return (int) reversed;
     }
 }
