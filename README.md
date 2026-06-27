@@ -8,12 +8,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/joydeep-git/leetcode-dsa/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/joydeep-git/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/joydeep-git/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/joydeep-git/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joydeep-git/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/joydeep-git/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
+| [0066-plus-one](https://github.com/joydeep-git/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joydeep-git/leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/joydeep-git/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0213-house-robber-ii](https://github.com/joydeep-git/leetcode-dsa/tree/main/0213-house-robber-ii/) | Medium |
