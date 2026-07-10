@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/joydeep-git/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/joydeep-git/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/joydeep-git/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/joydeep-git/leetcode-dsa/tree/main/0058-length-of-last-word/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/joydeep-git/leetcode-dsa/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -79,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/joydeep-git/leetcode-dsa/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/joydeep-git/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
