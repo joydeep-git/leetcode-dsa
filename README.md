@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/joydeep-git/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/joydeep-git/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joydeep-git/leetcode-dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/joydeep-git/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/joydeep-git/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0213-house-robber-ii](https://github.com/joydeep-git/leetcode-dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/joydeep-git/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/joydeep-git/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/joydeep-git/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/joydeep-git/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/joydeep-git/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
@@ -84,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/joydeep-git/leetcode-dsa/tree/main/0020-valid-parentheses/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/joydeep-git/leetcode-dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
