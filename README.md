@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/joydeep-git/leetcode-dsa/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/joydeep-git/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/joydeep-git/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/joydeep-git/leetcode-dsa/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/joydeep-git/leetcode-dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/joydeep-git/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/joydeep-git/leetcode-dsa/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/joydeep-git/leetcode-dsa/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
